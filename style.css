@@ -125,7 +125,6 @@ h1{
 
 /*about-aside block*/
 .about-aside{
-    background-color: #ced46a;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -239,4 +238,5 @@ h3{
     transform: scale(1.2);
 
 }
+
 
