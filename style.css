@@ -90,7 +90,7 @@ h1{
 
 
 /* media queries~*/
-@media screen {
+@media(max-width:760px){
     .article-figures, .section-figures,
      .about-aside, .footer, footer, h3,
     .showcase, header, header nav{
@@ -239,3 +239,4 @@ h3{
     transform: scale(1.2);
 
 }
+
