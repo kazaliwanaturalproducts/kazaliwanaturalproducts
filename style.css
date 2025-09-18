@@ -3,6 +3,8 @@
   font-family: Arial, sans-serif;
 }
 body{
+  margin: 0;
+  padding: 0;
     background-color: hsla(120, 100%, 55%, 0.3);
 }
 header{
@@ -88,7 +90,7 @@ h1{
 
 
 /* media queries~*/
-@media(max-width:768px){
+@media screen {
     .article-figures, .section-figures,
      .about-aside, .footer, footer, h3,
     .showcase, header, header nav{
@@ -235,4 +237,5 @@ h3{
 }
 .log:hover{
     transform: scale(1.2);
+
 }
