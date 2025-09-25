@@ -1,4 +1,4 @@
-I'm* {
+* {
   box-sizing: border-box;
   font-family: Arial, sans-serif;
 }
@@ -161,7 +161,7 @@ h2{
 }
 .aim{
     text-align: left;
-  margin: 10px;
+  margin: auto;
 }
 
 /*icons~*/
@@ -239,6 +239,7 @@ h3{
     transform: scale(1.2);
 
 }
+
 
 
 
