@@ -93,11 +93,12 @@ h1{
 @media(max-width:760px){
     .article-figures, .section-figures,
      .about-aside, .footer, footer, h3,
-    .showcase, header, header nav{
+    .showcase, header, header nav, aim{
         flex-direction: column;
         text-align: center;
         align-items: center;
         width: 100%;
+      margin: 10px;
     }
     video{
         width: 100%;
@@ -239,6 +240,7 @@ h3{
     transform: scale(1.2);
 
 }
+
 
 
 
