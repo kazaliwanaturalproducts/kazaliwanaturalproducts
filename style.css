@@ -99,6 +99,7 @@ h1{
         text-align: center;
         align-items: center;
         width: 100%;
+      float: none;
     }
     video{
         width: 100%;
@@ -109,7 +110,7 @@ h1{
         font-size: 14px;
     }
   .aim{
-    margin: 10px;
+    margin: 0;
     padding: 10px;
   }
     .footer, footer{
@@ -244,6 +245,7 @@ h3{
     transform: scale(1.2);
 
 }
+
 
 
 
